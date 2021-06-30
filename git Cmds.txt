@@ -1,0 +1,29 @@
+git config --global user.name Bipin
+
+git config --global user.email kumarbipin0251@gmail.com
+
+git init
+
+git status 
+
+git add <file name>/-a
+
+git commit -m "<message>"
+
+git log -p -<no of logs> 
+
+git status -s 
+
+git touch<file name>
+
+git rm<file name>
+
+git branch <branch name>
+
+git checkout -f <goes to the entered location> or reloads the last commited file
+
+git branch -d <branch name>
+
+git push origin <branch name>
+
+git add origin <link url>
