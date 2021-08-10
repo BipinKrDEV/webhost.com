@@ -95,7 +95,7 @@ nav{
 .menu ul .log:hover{
     cursor: pointer;
     background: linear-gradient(57deg,#7f00ff, #e100ff);
-    color: #000;
+    color: #fff;
     font-weight: 600;
     transition: 0.4s;
 }
@@ -139,7 +139,7 @@ section{display: flex;}
 }
 
 .rightside .demo{
-    background: linear-gradient(90deg, #f441a5, #ffeb3b, #03a9f4,#f441a5);
+    background: linear-gradient(57deg,#7f00ff, #e100ff);
     color: #fff;
     font-weight: 600;
     font-size: 2rem;
